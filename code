@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous" />
+
+    <!-- My Css -->
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Website Ayanggggg</title>
+  </head>
+  <body id="home">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light shadow-sm fixed-top" style="background-color: #ff00dd">
+      <div class="container">
+        <a class="navbar-brand" href="#">Nurlita</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#galery">Galery</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Chat Akuu</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Akhir Navbar -->
+    <!-- Jumbtron -->
+    <section class="jumbotron text-center">
+      <img src="img/dinoso.jpeg" alt="babyyyy" width="200" class="rounded-circle img-thumbnail" />
+      <h1 class="display-4">Nurlita</h1>
+      <p class="lead">Dinosonya Ilham</p>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#ffff"
+          fill-opacity="1"
+          d="M0,224L0,128L180,128L180,160L360,160L360,192L540,192L540,64L720,64L720,256L900,256L900,224L1080,224L1080,128L1260,128L1260,224L1440,224L1440,320L1260,320L1260,320L1080,320L1080,320L900,320L900,320L720,320L720,320L540,320L540,320L360,320L360,320L180,320L180,320L0,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- Akhir JUmbotron -->
+
+    <!-- About -->
+    <section id="about">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2>Tentang Ayangkuuuu</h2>
+          </div>
+        </div>
+        <div class="row justify-content-center fs-5 text-center">
+          <div class="col-md-4">
+            <p>
+              Ayang lita adalah perempuan yang paling aku sayangi setelah mamah, walaupun dia ngambekan tapi aku sayanggggg banget sama dia. Aku selalu berharap bisa bertemu sama ayang lita, aku engga mau kehilangan dia, aku gamau jauh-jauh
+              sama ayang dan aku mau terus sama dia sampai aku gaada di dunia ini.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <p>Buat ayang jaga kesehatan yaaaa, jangan telat mam kalo telat mam nanti peyutnya sakitt, aku gamau ayang sakit. Oh iyaa lupa, jangan mam yang pedes-pedes jugaaaa, tak tutuk nanti kalo mam pedes :)</p>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="rgb(243, 212, 239)"
+          fill-opacity="1"
+          d="M0,192L0,0L180,0L180,288L360,288L360,160L540,160L540,192L720,192L720,32L900,32L900,128L1080,128L1080,32L1260,32L1260,96L1440,96L1440,320L1260,320L1260,320L1080,320L1080,320L900,320L900,320L720,320L720,320L540,320L540,320L360,320L360,320L180,320L180,320L0,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- Akhir About -->
+
+    <!-- Icon -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
+
+    <!-- Galery -->
+    <section id="galery">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2>Galery My Dinosoooo</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/1.jpeg" class="card-img-top" alt="gambar2" />
+              <div class="card-body">
+                <p class="card-text">Foto ayang lagi keljaaaa.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/2.jpeg" class="card-img-top" alt="gambar3" />
+              <div class="card-body">
+                <kp class="card-text">Pap dari ayangg, cantik bingitz.</kp>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/3.jpeg" class="card-img-top" alt="gambar4" />
+              <div class="card-body">
+                <p class="card-text">Dapet pap lagiii, sumpah aku seneng banget ayangku cantik benerrr.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/bobosamanino.jpeg" class="card-img-top" alt="gambar5" />
+              <div class="card-body">
+                <p class="card-text">Ini foto ayang pas lagi bobo peluk ninoooo.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/gambarayang.jpeg" class="card-img-top" alt="gambar6" />
+              <div class="card-body">
+                <p class="card-text">Ini gambar random yang ayang buatt, kyuttt luv u more bebb.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/bolakentang.jpeg" class="card-img-top" alt="gambar7" />
+              <div class="card-body">
+                <p class="card-text">Ini bola kentang kesukaan ayangg, ayang sering buattt.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/4.jpeg" class="card-img-top" alt="gambar6" />
+              <div class="card-body">
+                <p class="card-text">Ini pas ayang maw pelgii, pakai helmmm bagus-bagus.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/5.jpeg" class="card-img-top" alt="gambar6" />
+              <div class="card-body">
+                <p class="card-text">Ini pap dari ayang pakai kacamata, aku sangat likeee.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <div class="card">
+              <img src="img/papterakir.jpeg" class="card-img-top" alt="gambar6" />
+              <div class="card-body">
+                <p class="card-text">Mungkin ini pap terakhir dari my dinosoo.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#ffff"
+          fill-opacity="1"
+          d="M0,0L0,160L144,160L144,64L288,64L288,224L432,224L432,128L576,128L576,160L720,160L720,160L864,160L864,32L1008,32L1008,224L1152,224L1152,32L1296,32L1296,160L1440,160L1440,320L1296,320L1296,320L1152,320L1152,320L1008,320L1008,320L864,320L864,320L720,320L720,320L576,320L576,320L432,320L432,320L288,320L288,320L144,320L144,320L0,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- Akhir Galery -->
+
+    <!-- About -->
+    <section id="about">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2>Pesan Buat My Dinosooooo</h2>
+          </div>
+        </div>
+        <div class="row justify-content-center fs-5 text-center">
+          <div class="col-md-4">
+            <p>
+              Ayangg maafin ilham yaa ilham sering bikin ayang marah, maybe ilham sering buat ayang nangis juga. Mungkin ayah udah ngerasa kalo ilham ga pantas buat putri-nya yang paling kicikkk, ayang pantas dapet yang jauh lebih baik dari
+              ilham. Ilham sedih banget ayang pelgii, kalo ayang pelgii ilham gatau lagi harus minta perhatian ke siapa, biasanya kalo ilham kangen langsung kol dinosonyaaa, but sekarang apa masih bolehh ?, semoga masih boleh koll lagii :)
+              oh yaa satu lagii, semoga kita bisa bareng-bareng lagi ya ayanggg maaghhhh.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <p>
+              My Dinosooo jaga kesehatan yaaaa, jangan mam yang pedes-pedes, kalau naik motor pakai helmmm hihihi, oh yaa satu lagi, kalo ayang udah punya pacar baru bilang yaaaa, aku bakal langsung pelgi kalo itu udah terjadiiii luvv u
+              moreee bebbb
+            </p>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="rgb(243, 212, 239)"
+          fill-opacity="1"
+          d="M0,192L0,0L180,0L180,288L360,288L360,160L540,160L540,192L720,192L720,32L900,32L900,128L1080,128L1080,32L1260,32L1260,96L1440,96L1440,320L1260,320L1260,320L1080,320L1080,320L900,320L900,320L720,320L720,320L540,320L540,320L360,320L360,320L180,320L180,320L0,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- Akhir About -->
+
+    <!-- Contact -->
+    <section id="contact">
+      <div class="container">
+        <div class="row text-center mb-3">
+          <div class="col">
+            <h2>Ayangggggg</h2>
+            <h3>ayang jangan lupa chat ilham yaaa</h3>
+            <h3>kalo ga di chat nanti ilham nangis</h3>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill=" rgb(243, 212, 239)"
+          fill-opacity="1"
+          d="M0,192L0,96L144,96L144,32L288,32L288,160L432,160L432,256L576,256L576,0L720,0L720,160L864,160L864,256L1008,256L1008,224L1152,224L1152,160L1296,160L1296,192L1440,192L1440,320L1296,320L1296,320L1152,320L1152,320L1008,320L1008,320L864,320L864,320L720,320L720,320L576,320L576,320L432,320L432,320L288,320L288,320L144,320L144,320L0,320L0,320Z"
+        ></path>
+      </svg>
+    </section>
+    <!-- Akhir Contact -->
+
+    <!-- Footer -->
+    <footer class="text-center pb-3">
+      <p>Created with <i class="bi bi-heart-fill text-danger"></i> for <a href="https://www.instagram.com/litaaaaaa.___" class="fw-bold">My Dinosooo</a></p>
+    </footer>
+    <!-- Akhir Footer -->
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+  </body>
+</html>
